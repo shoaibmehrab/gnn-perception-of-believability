@@ -2,7 +2,7 @@
 
 This repository contains the source code and implementation for the research on improving Graph Neural Network (GNN) performance for fake news detection by incorporating user believability scores. This work is directly related to the findings for Research Question 2 (RQ2) in our paper accepted in ACM CSCW 2025 and published in Proceedings of the ACM on Human-Computer Interaction.
 
-**Paper:** [A User Believability-Empowered Graph-Based Fake News Detection Framework](https://dl.acm.org/doi/pdf/10.1145/3757691)
+**Paper:** [Understanding News Consumers’ Perceptions of Believability: A Study of Real and Fake News](https://dl.acm.org/doi/pdf/10.1145/3757691)
 
 ## Project Overview
 
